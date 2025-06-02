@@ -1,0 +1,50 @@
+IT4106 - User Experience Design - 2023 Exam Questions & Answers
+Part 1 - Multiple Choice Questions (Selected)
+1. Which of the following is an example of a user-centered design principle?
+* (c) Prioritizing user needs and feedback 
+
+*Explanation: User-centered design fundamentally revolves around understanding and addressing the needs, wants, and limitations of end users.*
+2. What is/are the primary goal(s) of conducting user research in UX design?
+* (b) To understand the users' behaviors, needs, and motivations through observation and feedback 
+* (d) To identify key points and areas for improvement in the user experience 
+
+*Explanation: User research aims to gather insights about users to inform design decisions and identify opportunities for enhancing the overall experience.*
+3. Affordances in UX design are important because they:
+* (a) Communicate the function of a design element to the user 
+* (d) Represent the perceived and actual properties of an object that determine how it can be used 
+
+*Explanation: Affordances are visual or physical cues that suggest how an object or interface element should be used.*
+4. Which of the following interaction types involves users issuing instructions to a system?
+* (a) Instructing 
+
+*Explanation: The "instructing" interaction type is characterized by the user giving explicit commands or instructions to the system.*
+5. Which of the following is/are the benefit(s) of involving users throughout the development process?
+* (a) Ensures the end product is more usable 
+* (c) Helps manage users' expectations about the new product 
+* (d) Increases the likelihood of user adoption and satisfaction 
+
+*Explanation: Continuous user involvement leads to products better aligned with user needs, realistic expectations, and higher acceptance rates.*
+Part 2 - Structured Questions (Selected)
+1. (a) Define "User-Centered Design" and explain its importance in the context of User Experience Design. 
+
+Answer: User-centered design (UCD) is an iterative design process that focuses on the users and their needs in each phase of the design process.  UCD ensures that the final product is usable and meets the needs of the users, thus improving user satisfaction, usability, reduced development cost, increased adoption, and overall product success. 
+
+Explanation: UCD places the user at the heart of the design process, leading to products that are more intuitive, effective, and enjoyable to use.
+
+2. (d) List four (4) advantages of using high-fidelity prototypes in the design process. 
+
+Answer:
+
+Realistic User Feedback: High-fidelity prototypes provide a realistic experience, leading to more accurate user feedback. 
+Detailed Usability Testing: They allow for detailed usability testing of the interface and functionality. 
+Stakeholder Buy-in: They help in gaining stakeholder buy-in by providing a clear representation of the final product. 
+Clearer Specifications: They provide clearer specifications for developers to follow during the development phase. 
+Explanation: High-fidelity prototypes offer a closer look at the final product, facilitating more specific feedback, thorough testing, better communication with stakeholders, and clearer guidance for development.
+
+3. (b) Identify and explain four (4) types of interaction design principles. 
+
+Answer:
+Visibility: Ensuring that the necessary options and information are visible to the user, preventing confusion.  Explanation: Users should be able to see what they can do and the current state of the system.
+Feedback: Providing timely and relevant feedback to users about their actions and the system's state.  Explanation: Feedback confirms actions, informs users of results, and helps them understand what the system is doing.
+Consistency: Maintaining uniformity in design elements and behavior throughout the interface to reduce the learning curve.  Explanation: Consistent design helps users transfer knowledge from one part of the interface to another, making it easier to learn and use.
+Affordance: Designing elements so that their use is intuitive and apparent, encouraging correct user actions.  Explanation: Affordances are properties of an object that show the user the actions they can take (e.g., a button looks clickable).
